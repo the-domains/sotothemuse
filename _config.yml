@@ -1,14 +1,26 @@
-layout_spectrum: 0.20948552363552153
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8816473784390837
 color:
+  saturation: 1
   brandStrength: 0.9830705337226391
-  lightness: 0.8638300290331244
-  saturation: 0.8604483054950833
-  rhythmicContrast: 0.027015836676582694
+  lightness: 0.8010118
   brandColors:
     - '#E8E595'
     - '#D0A825'
     - '#40627C'
     - '#26393D'
     - '#FFFAE4'
+  rhythmicContrast: 0.4747049
+layout_spectrum: 0.2094855236355215
 name: sotothemuse
