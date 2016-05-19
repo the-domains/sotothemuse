@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 1
 color:
   saturation: 1
   brandStrength: 0.9830705337226391
@@ -21,6 +22,5 @@ color:
     - '#26393D'
     - '#FFFAE4'
   rhythmicContrast: 0.4747049
-typography_spectrum: 0.8816473784390837
 layout_spectrum: 0.6973019
 name: sotothemuse
