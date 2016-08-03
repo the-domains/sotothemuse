@@ -1,3 +1,7 @@
+name: sotothemuse
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.9830705337226391
-  lightness: 0
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
-  rhythmicContrast: 0
-layout_spectrum: 0.6973019
-name: sotothemuse
+    - '#f8faf9'
+    - '#181d1e'
+    - '#b2c2c1'
+    - '#3b4849'
+    - '#8fa3a2'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
